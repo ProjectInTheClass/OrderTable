@@ -1,4 +1,4 @@
-# 코딩배우기2
+# 코딩배우기2 값 증가시키기 
 Var gemcounter=0
 while !isBlocked || !isBlockedRight{
     if isOnGem{
