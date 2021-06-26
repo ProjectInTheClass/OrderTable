@@ -21,6 +21,15 @@
 printf("Hello, World!");
 ```
 
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+충돌상황을 가정한다.
+=======
+밥 맛있게 드셨나요
+
+>>>>>>> Stashed changes
+=======
 충돌상황을 가정한다.
 
 으악
+>>>>>>> 596264203e71331c5a9b11f6f21b046732bcfd6f
