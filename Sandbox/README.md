@@ -18,12 +18,19 @@
 기억할수록 난 되어만 가 loser
 
 ```
+#include <stdio.h>
+
+int main () {
+
 printf("Hello, World!");
+
+return 0;
+
+}
 ```
 
 
 밥 맛있게 드셨나요
-
 
 충돌상황을 가정한다.
 
